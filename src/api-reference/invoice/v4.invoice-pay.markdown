@@ -3,8 +3,6 @@ title: Invoice Pay v4
 layout: reference
 ---
 
-{% include prerelease.html %}
-
 * [Overview](#overview)
 * [Products and Editions](#products-editions)
 * [Scope Usage](#scope-usage)
